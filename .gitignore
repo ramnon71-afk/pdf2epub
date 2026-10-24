@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.epub
+*.raw.txt
+*.clean.txt
+*.report.json
+*.pdf
+.DS_Store
